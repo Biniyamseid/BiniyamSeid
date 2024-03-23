@@ -25,7 +25,6 @@
 ### :man_technologist: About Me :
 I am a software engineer and.
 - 🌱 I am currently working as Python developer.
-- 🌱 I am a member of GitHub Campus Expert. 
 - 👀 I'm now looking for a software engineering position with a company where I can advance my technical skills and learn engineering best practices.
 - 📫 Reach me by at je.biniyam@gmail.com
 
