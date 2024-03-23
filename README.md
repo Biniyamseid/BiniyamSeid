@@ -1,4 +1,11 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Biniyam Seid. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
+
+- I'm a passionate web and mobile developer
+
+- ❤️ I love writing Python, and building fun experiments.
+<br />
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
