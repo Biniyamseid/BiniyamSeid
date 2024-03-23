@@ -5,12 +5,12 @@
 </div>
 
 <div id="badges" align = "center" >
-  <a href="https://www.linkedin.com/in/biniyamseid/">
+  <a href="https://www.linkedin.com/in/luoxufeiyan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=biniyamseid&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=luoxufeiyan&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -24,8 +24,8 @@
 
 ### :man_technologist: About Me :
 I am a software engineer and.
-- 🌱 I am currently working as Backend Engineer and Head of Project Development at African To Silicon Valley.
-- 🌱 I am a member of GitHub Campus Expert and Microsoft Learn Student Ambassador. 
+- 🌱 I am currently working as Python developer.
+- 🌱 I am a member of GitHub Campus Expert. 
 - 👀 I'm now looking for a software engineering position with a company where I can advance my technical skills and learn engineering best practices.
 - 📫 Reach me by at je.biniyam@gmail.com
 
@@ -48,5 +48,5 @@ I am a software engineer and.
 ---
 
 ### :fire: My Stats :
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=biniyamseid)](https://github.com/biniyamseid) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biniyamseid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=luoxufeiyan)](https://github.com/luoxufeiyan) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luoxufeiyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
