@@ -57,9 +57,9 @@ I am a software engineer and.
                                                                                                                                                
 ---
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 [![biniyam's github stats](https://github-readme-stats.vercel.app/api?username=biniyamseid)](https://github.com/biniyamseid) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biniyamseid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biniyamseid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### :fire:
 # 📊 GitHub Stats:
